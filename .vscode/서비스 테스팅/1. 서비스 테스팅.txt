@@ -1,0 +1,8 @@
+서비스 테스팅
+  - Staging 환경 추가
+    - Git에 'Staging' 브랜치 생성
+      1. git checkout -b Staging
+      2. git push origin Staging
+  - 본격 테스팅
+  - smoke testing 진행
+  - regression tesing 
